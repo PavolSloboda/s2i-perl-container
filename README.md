@@ -47,6 +47,12 @@ CentOS versions currently supported:
 * CentOS Stream 9
 * CentOS Stream 10
 
+<!--
+Table start
+-->
+<!--
+Table end
+-->
 
 Installation
 ------------
